@@ -1,0 +1,25 @@
+body{
+    color: bluegreen;
+    background:blue
+}
+#header{
+    color:black;
+    background: yellow;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.number_of_objects, #result_object_name, #result_object_accuracy{
+    color:black
+}
+#camera{
+    border:2px dashed black;
+    width:350px;
+    height:350px;
+}
+.span{
+    background-color: yellow;
+    height: 500;
+    width: 500;
+}
